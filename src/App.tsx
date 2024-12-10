@@ -1,10 +1,10 @@
 import "./App.css";
-import SpinningCube from "./components/SpinningCube";
+import SimpleLineScene from "./components/SimpleLineScene";
 
 function App() {
   return (
     <div>
-      <SpinningCube />
+      <SimpleLineScene />
     </div>
   );
 }
