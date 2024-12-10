@@ -1,10 +1,10 @@
 import "./App.css";
-import SimpleLineScene from "./components/SimpleLineScene";
+import TexturedSphere from "./components/TexturedSphere";
 
 function App() {
   return (
     <div>
-      <SimpleLineScene />
+      <TexturedSphere />
     </div>
   );
 }
