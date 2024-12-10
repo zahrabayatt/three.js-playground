@@ -1,10 +1,10 @@
 import "./App.css";
-import TexturedSphere from "./components/TexturedSphere";
+import Cube from "./components/Cube";
 
 function App() {
   return (
     <div>
-      <TexturedSphere />
+      <Cube />
     </div>
   );
 }
