@@ -1,10 +1,10 @@
 import "./App.css";
-import Cube from "./components/Cube";
+import ThreeDModel from "./components/ThreeDModel";
 
 function App() {
   return (
     <div>
-      <Cube />
+      <ThreeDModel />
     </div>
   );
 }
