@@ -1,5 +1,7 @@
+import Scene from "./Scene";
+
 const ZustandHomeLand = () => {
-  return <div>ZustandHomeLand</div>;
+  return <Scene />;
 };
 
 export default ZustandHomeLand;
